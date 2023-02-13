@@ -6,6 +6,7 @@ and 19. This is an in-person event.
 ## April 18-19, 2023
 
 UC Davis campus -
+
 * April 18 - UC Davis conference center + breakout rooms
 * April 19 - Putah Creek Lodge + breakout rooms
 
@@ -15,7 +16,7 @@ Registration and hotel booking deadlines: March 3rd, 2023.
 
 Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfWi7Z-MoVNphu344XKKvnLeGmVB5CSSEcBLTg7r-kizOUW0g/viewform) to register your intent to attend. 
 
-The safety of attendees is a top priority. Attendees are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2023-april-all-hands-meeting/COVID/).
+The safety of attendees is a top priority. Attendees are strongly encouraged to follow these [COVID-19 precautions](COVID.md).
 
 ## Booking hotel rooms
 

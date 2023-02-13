@@ -1,6 +1,6 @@
 # COVID-19
 
-The safety of CFDE attendees is our top priority.  We will continue to closely monitor local and institutional policies regarding Covid-19 safety. We ask that all attendees conduct themselves in a manner that respects others and preserves public health. At present, we expect that the following will apply to our meeting:  
+The safety of attendees is our top priority.  We will continue to closely monitor local and institutional policies regarding Covid-19 safety. We ask that all attendees conduct themselves in a manner that respects others and preserves public health. At present, we expect that the following will apply to our meeting:  
 
 ## Testing 
 
