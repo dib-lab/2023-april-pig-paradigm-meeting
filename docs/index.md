@@ -1,46 +1,37 @@
-# The NIH Common Fund Data Ecosystem April 2023 All-Hands Meeting
+# The 2023 PIG-PARADIGM meeting at UC Davis, April 18 and 19
 
-The April CFDE Program Meeting (All-Hands Meeting) will bring together the CFDE community to review progress and discuss strategic issues that impact the ecosystem as a whole. This is a hybrid event with in-person and remote participation.
+The April 2023 PIG-PARADIGM meeting will take place at UC Davis on April 18
+and 19. This is an in-person event.
 
-For this meeting we are also planning a poster session, and some
-posters will be selected for lightning talks!
+## April 18-19, 2023
 
-## April 4-5, 2023
+UC Davis campus -
+* April 18 - UC Davis conference center + breakout rooms
+* April 19 - Putah Creek Lodge + breakout rooms
 
-The Bethesdan Hilton Hotel <br/>
-8120 Wisconsin Avenue <br/>
-Bethesda, MD 20814 <br/>
-[Google Maps](https://goo.gl/maps/bYKJiKZeGnmywWCm8)
-
-Registration and hotel booking deadlines: February 24th, 2023.
+Registration and hotel booking deadlines: March 3rd, 2023.
 
 ## Registration
 
-Please fill out [this form](https://forms.gle/G7SEEcJdjZozbUUg6) to register your intent to attend. 
+Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfWi7Z-MoVNphu344XKKvnLeGmVB5CSSEcBLTg7r-kizOUW0g/viewform) to register your intent to attend. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpO5095Ibn8VvDmi6D8rMVcSJz_LICMZwjBLZ5GgJYoL9Xgg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-The safety of CFDE attendees is a top priority. Attendees are expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2023-april-all-hands-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2023-april-all-hands-meeting/COVID/).
+The safety of attendees is a top priority. Attendees are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2023-april-all-hands-meeting/COVID/).
 
 ## Booking hotel rooms
 
-Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=WASBAUP&groupCode=CF4&arrivaldate=2023-04-03&departuredate=2023-04-06&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) to book hotel rooms at the Bethesdan for the dates of the meeting.
+More info soon.
 
 ## Draft Agenda 
 
-### Day 1: April 4
+### Day 1: April 18
 
 | Time     | Topic         | Details |
 |----------|---------------|---------|
 | 9:00 AM  | Session 1     |         |
-| 10:30 AM | Morning Break |         |
-| 11:00 AM | Session 2     |         |
-| 12:30 PM | Lunch         |         |
-| 1:30 PM  | Session 3     |         |
 | 5:00 PM  | End           |         |
 
 
-### Day 2: April 5
+### Day 2: April 19
 
 | Time     | Topic         | Details |
 |----------|---------------|---------|
@@ -51,8 +42,7 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 | 1:30 PM  | Session 6     |         |
 | 3:30 PM  | End           |         |
 
-Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
-
 ## Contact
 
-For questions or concerns contact the CFDE helpdesk at [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net)
+For questions or concerns contact Titus Brown at ctbrown@ucdavis.edu.
+
