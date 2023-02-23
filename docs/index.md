@@ -20,7 +20,13 @@ The safety of attendees is a top priority. Attendees are strongly encouraged to 
 
 ## Booking hotel rooms
 
-More info soon.
+[Hyatt Place](https://www.hyatt.com/en-US/hotel/california/hyatt-place-uc-davis/smfzu?corp_id=31653) -
+this is an on-campus location that is closest to all of the venues,
+but is also the most expensive.
+
+Aggie Inn.
+
+Best Western Palm Court.
 
 ## Draft Agenda 
 
