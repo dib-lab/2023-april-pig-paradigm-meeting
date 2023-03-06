@@ -35,7 +35,7 @@ We will fill out the agenda detail shortly!
 
 | Time     | Topic         | Details |
 |----------|---------------|---------|
-| 9:00 AM  | Session 1     |         |
+| 8:45 AM  | Meeting begins     |         |
 | 5:30 PM  | End           |         |
 | 6:30 PM  | Group dinner in Sacramento  |         |
 
@@ -44,7 +44,7 @@ We will fill out the agenda detail shortly!
 
 | Time     | Topic         | Details |
 |----------|---------------|---------|
-| 9:00 AM  | Session 4     |         |
+| 8:45 AM  | Session 4     |         |
 | 10:30 AM | Morning Break |         |
 | 11:00 AM | Session 5     |         |
 | 12:30 PM | Lunch         |         |
