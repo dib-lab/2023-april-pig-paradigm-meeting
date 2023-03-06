@@ -1,7 +1,7 @@
 # The 2023 PIG-PARADIGM meeting at UC Davis, April 18 and 19
 
 The April 2023 PIG-PARADIGM meeting will take place at UC Davis on April 18
-and 19. This is an in-person event.
+and 19. This is an in-person event with limited hybrid offerings.
 
 ## April 18-19, 2023
 
@@ -20,15 +20,14 @@ The safety of attendees is a top priority. Attendees are strongly encouraged to 
 
 ## Booking hotel rooms
 
-[Hyatt Place](https://www.hyatt.com/en-US/hotel/california/hyatt-place-uc-davis/smfzu?corp_id=31653) -
-this is an on-campus location that is closest to all of the venues,
-but is also the most expensive.
+If you need accomodation, please fill out [this form](https://forms.office.com/pages/responsepage.aspx?id=Nh39Ycv-yke319DfA3ChmPqFaXojYFROrkQ9yRo8Bc9UNzJPN0RFMDZPSTNJTE9aTEpOVzdZS1NXSy4u). We plan to book all hotel rooms centrally.
 
-Aggie Inn.
+Please contact Lasse Sommer Mikkelsen via e-mail at [lsm@anivet.au.dk](mailto:lsm@anivet.au.dk) if you have questions about accomodations.
 
-Best Western Palm Court.
 
 ## Draft Agenda 
+
+We will fill out the agenda detail shortly!
 
 ### Day 1: April 18
 
@@ -36,6 +35,7 @@ Best Western Palm Court.
 |----------|---------------|---------|
 | 9:00 AM  | Session 1     |         |
 | 5:00 PM  | End           |         |
+| 6:30 PM  | Group dinner  |         |
 
 
 ### Day 2: April 19
@@ -48,8 +48,9 @@ Best Western Palm Court.
 | 12:30 PM | Lunch         |         |
 | 1:30 PM  | Session 6     |         |
 | 3:30 PM  | End           |         |
+| 4 PM     | Social and dinner |        |
+| 6:30 PM  | End dinner.   |         |
 
 ## Contact
 
 For questions or concerns contact Titus Brown at ctbrown@ucdavis.edu.
-
