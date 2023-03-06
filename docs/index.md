@@ -10,7 +10,7 @@ UC Davis campus -
 * April 18 - UC Davis conference center + breakout rooms
 * April 19 - Putah Creek Lodge + breakout rooms
 
-Registration and hotel booking deadlines: March 3rd, 2023.
+Registration and hotel booking deadlines: March 17th, 2023.
 
 ## Registration
 
