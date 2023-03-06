@@ -34,8 +34,8 @@ We will fill out the agenda detail shortly!
 | Time     | Topic         | Details |
 |----------|---------------|---------|
 | 9:00 AM  | Session 1     |         |
-| 5:00 PM  | End           |         |
-| 6:30 PM  | Group dinner  |         |
+| 5:30 PM  | End           |         |
+| 6:30 PM  | Group dinner in Sacramento  |         |
 
 
 ### Day 2: April 19
@@ -47,8 +47,8 @@ We will fill out the agenda detail shortly!
 | 11:00 AM | Session 5     |         |
 | 12:30 PM | Lunch         |         |
 | 1:30 PM  | Session 6     |         |
-| 3:30 PM  | End           |         |
-| 4 PM     | Social and dinner |        |
+| 5:15 PM  | End           |         |
+| 5:15 PM  | Reception and dinner |        |
 | 6:30 PM  | End dinner.   |         |
 
 ## Contact
