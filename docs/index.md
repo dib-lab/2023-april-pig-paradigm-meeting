@@ -55,4 +55,5 @@ We will fill out the agenda detail shortly!
 
 ## Contact
 
-For questions or concerns contact Titus Brown at ctbrown@ucdavis.edu.
+For questions or concerns contact Titus Brown at
+[ctbrown@ucdavis.edu](mailto:ctbrown@ucdavis.edu).
