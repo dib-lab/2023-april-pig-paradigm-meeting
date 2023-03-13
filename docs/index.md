@@ -39,17 +39,17 @@ Time | Activity | Location
 9-10am | Keynote speaker |  
 10-10:30am | Coffee break |  
 10:30-11:30am | PIG-PARADIGM overview and updates |  
-11:30-11:45am | Group hoto |  
-11:45am-12:30pm | Lunch (buffet) | Conference center
+11:30-11:45am | Group photo |  
+11:45am-12:30pm | Lunch (buffet) | Conference Center
 12:30-12:45am | Travel to breakout rooms |  
 12:45-2pm | Intra-pillar workgroups |  
   | Host pillar | 1207 RMI South
-  | Microbiome pillar | Conference center ballroom
+  | Microbiome pillar | Conference Center ballroom
   | Nutrition pillar | Meyer Hall 3208 (Pran Vohra Room)
   | Data management pillar | 3215 RMI South
 2-2:15pm | Travel back from breakout rooms |  
 2:15-2:30pm | Coffee break | Conference Center
-2:30-4pm | Focus group reports |  
+2:30-4pm | Focus group reports | Conference Center 
   | Microbial sampling & protocols |  
   | Metabolome sampling & protocols |  
   | Clinical metrics & studies |  
@@ -73,7 +73,7 @@ Time | Activity | Location
 12-1pm | Box lunches |  
 1-3pm | Cross-pillar discussion session #2 |  
   | Students and postdocs | 1207 RMI South
-  | Faculty and PIs | ???
+  | Faculty and PIs | (TBD)
   |   |  
 3-3:30pm | Coffee break | Putah Creek Lodge
 3:30pm-5pm | PIG-PARADIGM mission and coordination |  
