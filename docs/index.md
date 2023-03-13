@@ -43,36 +43,42 @@ Time | Activity | Location
 11:45am-12:30pm | Lunch (buffet) | Conference center
 12:30-12:45am | Travel to breakout rooms |  
 12:45-2pm | Intra-pillar workgroups |  
- | | Host pillar | 1207 RMI South
- | | Microbiome pillar | Conference center ballroom
-| | Nutrition pillar | Meyer Hall 3208 (Pran Vohra Room)
-|  | Data management pillar | 3215 RMI South
+  | Host pillar | 1207 RMI South
+  | Microbiome pillar | Conference center ballroom
+  | Nutrition pillar | Meyer Hall 3208 (Pran Vohra Room)
+  | Data management pillar | 3215 RMI South
 2-2:15pm | Travel back from breakout rooms |  
 2:15-2:30pm | Coffee break | Conference Center
 2:30-4pm | Focus group reports |  
-|  | Microbial sampling & protocols |  
-|  | Metabolome sampling & protocols |  
-|  | Clinical metrics & studies |  
-| | Pig diet composition & tissue sampling |  
- | | Metadata platform |  
+  | Microbial sampling & protocols |  
+  | Metabolome sampling & protocols |  
+  | Clinical metrics & studies |  
+  | Pig diet composition & tissue sampling |  
+  | Metadata platform |  
 4:30-5:30pm | Poster session |  
 5:30-6:30pm | Break |  
 6:30 PM | Travel to dinner |  
 7:00 PM | Dinner |  
 
-
 ### Day 2: April 19
 
-| Time     | Topic         | Details |
-|----------|---------------|---------|
-| 8:45 AM  | Session 4     |         |
-| 10:30 AM | Morning Break |         |
-| 11:00 AM | Session 5     |         |
-| 12:30 PM | Lunch         |         |
-| 1:30 PM  | Session 6     |         |
-| 5:15 PM  | End           |         |
-| 5:15 PM  | Reception and dinner |        |
-| 6:30 PM  | End dinner.   |         |
+Time | Activity | Location
+-- | -- | --
+8:30-10:30am | Cross-pillar discussion #1 | (light breakfast provided)
+  | Pig cohort study organization | 5202 GBSF
+  | Challenges with pig model studies | 5606 GBSF
+  | Microbiome approaches and integration | 6202 GBSF
+  |   |  
+10:30am-12pm | Facility tours |  
+12-1pm | Box lunches |  
+1-3pm | Cross-pillar discussion session #2 |  
+  | Students and postdocs | 1207 RMI South
+  | Faculty and PIs | ???
+  |   |  
+3-3:30pm | Coffee break | Putah Creek Lodge
+3:30pm-5pm | PIG-PARADIGM mission and coordination |  
+5pm-5:15pm | Closing session |  
+5:15pm-6:30pm | Reception and dinner |  
 
 ## Contact
 
