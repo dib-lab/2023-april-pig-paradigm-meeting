@@ -10,7 +10,9 @@ UC Davis campus -
 * April 18 - UC Davis conference center + breakout rooms
 * April 19 - Putah Creek Lodge + breakout rooms
 
-Registration and hotel booking deadlines: March 17th, 2023.
+<!-- Registration and hotel booking deadlines: March 17th, 2023. -->
+
+
 
 ## Registration
 
@@ -20,12 +22,17 @@ The safety of attendees is a top priority. Attendees are strongly encouraged to 
 
 ## Booking hotel rooms
 
-If you need accomodation, please fill out
+<!-- If you need accomodation, please fill out
 [this form](https://forms.office.com/pages/responsepage.aspx?id=Nh39Ycv-yke319DfA3ChmPqFaXojYFROrkQ9yRo8Bc9UNzJPN0RFMDZPSTNJTE9aTEpOVzdZS1NXSy4u)
-by midnight on March 17th. We plan to book all hotel rooms centrally.
+by midnight on March 17th. We plan to book all hotel rooms centrally. -->
+
+The hotel room booking form is now closed.
 
 Please contact Lasse Sommer Mikkelsen via e-mail at [lsm@anivet.au.dk](mailto:lsm@anivet.au.dk) if you have questions about accomodations.
 
+## Poster guidelines
+
+If you are presenting a poster, please see [the poster session guidelines](poster-guidelines.pdf).
 
 ## Draft Agenda 
 
