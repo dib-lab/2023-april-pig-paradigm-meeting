@@ -34,6 +34,20 @@ Please contact Lasse Sommer Mikkelsen via e-mail at [lsm@anivet.au.dk](mailto:ls
 
 If you are presenting a poster, please see [the poster session guidelines](poster-guidelines.pdf).
 
+## ESTA information
+
+The following information might be useful for those who are applying to
+enter the US under the Visa Waiver Program via ESTA.
+
+* Local contact name: C. Titus Brown
+* Address: 1 Shields Ave, Davis, CA 95616
+* Phone: 517-505-9237
+
+Please contact [Titus Brown](mailto:ctbrown@ucdavis.edu) if you need an
+invitation letter (e.g. if you are not doing ESTA or a similarly streamlined
+visa process). Please include your full legal name, passport number, date of
+birth, and place of birth.
+
 ## Draft Agenda 
 
 ### Day 1: Tuesday, April 18
