@@ -57,49 +57,45 @@ Time | Activity | Location
   |   |  
 8:30 - 8:45am | Light breakfast | Conference Center
 8:45-9am | Welcome (Charlotte and Maria) |  
-9-10am | Keynote speaker |  
+9-10am | Impact Session |  
 10-10:30am | Coffee break |  
 10:30-11:30am | PIG-PARADIGM overview and updates |  
 11:30-11:45am | Group photo |  
 11:45am-12:30pm | Lunch (buffet) | Conference Center
 12:30-12:45am | Travel to breakout rooms |  
 12:45-2pm | Intra-pillar workgroups |  
-  | Host pillar | 1207 RMI South
-  | Microbiome pillar | Conference Center ballroom
-  | Nutrition pillar | Meyer Hall 3208 (Pran Vohra Room)
-  | Data management pillar | 3215 RMI South
+  | Host and microbiome pillar | Conference Center ballroom
+  | Nutrition pillar | Robert Mondavi South 1207
+  | Data Integration pillar | Robert Mondavi South 3215
 2-2:15pm | Travel back from breakout rooms |  
-2:15-2:30pm | Coffee break | Conference Center
-2:30-4pm | Focus group reports | Conference Center 
-  | Microbial sampling & protocols |  
-  | Metabolome sampling & protocols |  
-  | Clinical metrics & studies |  
-  | Pig diet composition & tissue sampling |  
-  | Metadata platform |  
+2:15-2:30pm | Focus group reports | Conference Center
+  |   |  
 4:30-5:30pm | Poster session |  
-5:30-6:30pm | Break |  
-6:30 PM | Travel to dinner |  
-7:00 PM | Dinner |  
+5:30-6:15pm | Break |  
+6:15 PM | Dinner: Punchbowl Social | Leave from Conference Center
 
 ### Day 2: April 19
 
 Time | Activity | Location
 -- | -- | --
-8:30-10:30am | Cross-pillar discussion #1 | (light breakfast provided)
-  | Pig cohort study organization | 5202 GBSF
-  | Challenges with pig model studies | 5606 GBSF
-  | Microbiome approaches and integration | 6202 GBSF
-  |   |  
-10:30am-12pm | Facility tours |  
-12-1pm | Box lunches |  
+8-8:30am | Light breakfast | Valley Hall Atrium
+8:30am-9:30am | Cross-pillar discussion #1 |  
+  | Microbiome approaches and integration | 1105 VM3B
+  | Sharing the situation of swine markets | 1047 Valley
+9:30am-10:30am | Cross-pillar discussion #1, continued |  
+  | Data workflows and analysis | 1105 VM3B
+  | Micronutrients, trace elements and iron | 1047 Valley
+10:30am-11:15am | Swine facility presentation | Genome Center auditorium
+11:15am-12pm | Core Facility tours | Genome Center
+12-1pm | Box lunches | (pick up behind Scrubs Cafe)
 1-3pm | Cross-pillar discussion session #2 |  
-  | Students and postdocs | 1207 RMI South
-  | Faculty and PIs | (TBD)
+  | PhD students and postdocs | 1043 Valley
+  | Faculty and PIs | 1105 VM3B
   |   |  
 3-3:30pm | Coffee break | Putah Creek Lodge
-3:30pm-5pm | PIG-PARADIGM mission and coordination |  
-5pm-5:15pm | Closing session |  
-5:15pm-6:30pm | Reception and dinner |  
+3:30pm-4:30pm | Report and management updates |  
+4:30pm-5pm | Connect & collaborate |  
+5:15pm-6:30pm | Reception and dinner w/food truck |  
 
 ## Contact
 
