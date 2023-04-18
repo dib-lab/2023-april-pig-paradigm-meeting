@@ -68,9 +68,9 @@ Time | Activity | Location
   | Nutrition pillar | Robert Mondavi South 1207
   | Data Integration pillar | Robert Mondavi South 3215
 2-2:15pm | Travel back from breakout rooms |  
-2:15-2:30pm | Focus group reports | Conference Center
+2:15-4pm | Focus group work & reports | Conference Center
   |   |  
-4:30-5:30pm | Poster session |  
+4-5:30pm | Poster session |  
 5:30-6:15pm | Break |  
 6:15 PM | Dinner: Punchbowl Social | Leave from Conference Center
 
